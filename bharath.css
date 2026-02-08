@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.abc{
+    background-color:burlywood;
+}
+
+.navv{
+    text-align: center;
+   
+}
+
+.navv ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+
+
+.color{
+    background-color: aqua;
+    h2{
+        text-align: right;
+        padding-right: 200px;
+        
+    }
+    image{
+        padding-bottom: 2000px ;
+        padding-bottom: 25%;
+    }
+    
+}

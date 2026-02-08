@@ -1,0 +1,130 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+
+
+.up{
+    background-image:url(./image/images.jpg ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+
+}
+.head h2{
+    padding-left: 50px;
+    padding-top: 20px;
+    color: skyblue ;
+   } 
+  
+
+
+
+
+.body{
+    text-align: center;
+    padding-top: 10%;
+}
+ */
+*{
+    padding: 0;
+    margin: 0;
+}
+.image{
+    background-image: url(./image/images.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    
+}
+
+.hl ul{
+    padding-top: 20px;
+}
+
+.hl ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    color: white;
+}
+
+.hl h1{
+    float: left;
+    padding-top: 20px;
+    color: white;
+}
+
+.text{
+    text-align: center;
+    padding-top: 15%;
+}
+.btn{
+    background-color: green;
+   
+   }
+   .btn:hover{
+    background-color: blue;
+   }
+   .down{
+    padding-top: 50px;
+    display: flex;
+    padding: 20px;
+   
+   }
+   
+   .a{
+    padding-left: 100px;
+    
+    
+   }
+   .b{
+    padding-left: 100px;
+    padding-right: 100px;
+   }
+   .c{
+    padding-right: 1    00px;
+   }
+   .d {
+    display: flex;
+    padding-bottom: 50px;
+   }
+   .e{
+    text-align: center;
+    padding-right: 400px;
+    padding-left: 100px;
+    padding-top: 100px;
+   }
+   .f{
+    text-align: center;
+    padding-top: 200px;
+    background-image: url(./image/images.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .g{
+    display: flex;
+    padding-top: 50px;
+   
+
+   }
+   .navv{
+    text-align: right;
+   padding-left: 50px;
+   padding-right: 300px;
+
+}
+.navv ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.h{
+    padding-left: 350px;
+}
+.i{
+    color: green;
+}
